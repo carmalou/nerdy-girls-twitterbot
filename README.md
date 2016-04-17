@@ -1,8 +1,8 @@
 # nerdy-girls-twitterbot
 
 * GitHub stores code, and it can be used for static websites.
-* Heroku supports executable code.
-* Twit is a wrapper around Twitter's API. We might just use the Twitter API.
+* Heroku supports executable code. https://www.heroku.com/
+* Twit is a wrapper around Twitter's API. https://github.com/ttezel/twit We might just use the Twitter API.
 * Codecademy has a great scratchpad for Javascript code: http://labs.codecademy.com/#:workspace
 * Sourcetree is an alternative to using the command line with Git: https://www.sourcetreeapp.com/
 * Promises ensure that code is executed in a certain order.
@@ -13,7 +13,7 @@ Git Courses:
 * Code School (only the first one is free): https://www.codeschool.com/courses/try-git 
 * Codecademy: https://www.codecademy.com/learn/learn-git
 * Lynda (You can access these for free if you have a Metropolitan Library System card): http://www.metrolibrary.org/research?search-databases=lynda.com
-* Pluralsight: https://learn.pluralsight.com/resource/free-course/free-weekly-course
+* Pluralsight: https://www.pluralsight.com/
 
 Reference Project:
 * http://carmalou.com/projects/2016/03/27/twitter-bot.html
