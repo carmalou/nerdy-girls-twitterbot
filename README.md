@@ -20,7 +20,19 @@ Reference Project:
 * https://github.com/carmalou/80s-movie-twitterbot
 * https://twitter.com/80s_movie_bot
 
-Steps:
+Steps we (mostly Carmen) took on 5/29/2016:
+* Created the Twitter account: https://twitter.com/nerdyladyquotes
+* Set up an application at https://apps.twitter.com/
+  * Gave permission to 'Read, Write, and Access direct messages'
+  * Clicked 'Generate API Keys' on the 'API Keys' tab.
+* Cloned the repository locally.
+* Created a gitignore file https://git-scm.com/docs/gitignore
+* Created index.js and wrote a function to post a test tweet to Twitter.
+* Created config.js to store Twitter secret keys.
+  * Copied Application Settings and Access Token from Twitter into config.js
+* Called function to post test tweet.
+
+Steps to take:
 * Set up environment variables.
 * Find some quotes to tweet.
 * Store the quotes in array.
