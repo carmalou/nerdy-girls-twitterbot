@@ -1,7 +1,7 @@
 # nerdy-girls-twitterbot
 
 * GitHub stores code, and it can be used for static websites.
-* Heroku supports executable code and can automatically deploy to GitHub. https://www.heroku.com/
+* Heroku supports executable code, and GitHub can automatically deploy to Heroku. https://www.heroku.com/
 * Twit is a wrapper around Twitter's API. https://github.com/ttezel/twit
 * Codecademy has a great scratchpad for Javascript code: http://labs.codecademy.com/#:workspace
 * SourceTree is an alternative to using the command line with Git: https://www.sourcetreeapp.com/
@@ -38,6 +38,8 @@ Steps we took on 5/29/2016:
 * Wrote a function to post the quote to Twitter.
 
 Steps we're taking on 6/26/2016:
+* Create a GitHub account.
+* Install git.
 * Fork the repo.
 * Create a Heroku account.
 * Create a Twitter account.
