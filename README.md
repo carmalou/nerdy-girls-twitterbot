@@ -1,10 +1,10 @@
 # nerdy-girls-twitterbot
 
 * GitHub stores code, and it can be used for static websites.
-* Heroku supports executable code. https://www.heroku.com/
-* Twit is a wrapper around Twitter's API. https://github.com/ttezel/twit We might just use the Twitter API.
+* Heroku supports executable code and can automatically deploy to GitHub. https://www.heroku.com/
+* Twit is a wrapper around Twitter's API. https://github.com/ttezel/twit
 * Codecademy has a great scratchpad for Javascript code: http://labs.codecademy.com/#:workspace
-* Sourcetree is an alternative to using the command line with Git: https://www.sourcetreeapp.com/
+* SourceTree is an alternative to using the command line with Git: https://www.sourcetreeapp.com/
 * Promises ensure that code is executed in a certain order.
 * Meetup has an API that we could use to post events: http://www.meetup.com/meetup_api/
 * An API allows you to access a third-party system: https://en.wikipedia.org/wiki/Application_programming_interface
@@ -32,11 +32,14 @@ Steps we took on 5/29/2016:
   * Copied Application Settings and Access Token from Twitter into config.js
 * Called function to post test tweet.
 * Created our own branches and put quotes in quotes.json
-* Committed our changes, pushed them to our branches on github, and created pull requests to merge the changes to master .
+* Committed our changes, pushed them to our branches on GitHub, and created pull requests to merge the changes to master.
 * Store the quotes in array.
 * Wrote a function to get a random quote from the array.
 * Wrote a function to post the quote to Twitter.
 
-Steps to take next time:
+Steps we're taking on 6/26/2016:
+* Fork the repo.
+* Create a Heroku account.
+* Create a Twitter account.
 * Set up environment variables.
 * Automate posting.
