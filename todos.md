@@ -1,0 +1,6 @@
+- fork github repo
+- customize repo && make it your own
+- make twitter acct && get info
+- put it on github!
+- put it on heroku!
+- need procfile
